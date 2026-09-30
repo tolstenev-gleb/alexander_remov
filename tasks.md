@@ -6,7 +6,7 @@
 
 ### Задача 1
 
-Напишите программу для вычиления площади прямоугольника
+Напишите программу для вычиления площади прямоугольника.
 
 Пример ввода:
 ```bash
@@ -14,6 +14,7 @@ Enter the a: 2
 Enter the b: 3
 ```
 
+Пример вывода:
 ```bash
 The square of rectangle: 6
 ```
@@ -28,8 +29,8 @@ The square of rectangle: 6
 ```bash
 Enter the radius: 2  
 ```
-Пример вывода:
 
+Пример вывода:
 ```bash
 The square of rectangle: 6.280000
 ```
