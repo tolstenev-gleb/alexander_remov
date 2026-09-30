@@ -32,7 +32,7 @@ Enter the radius: 2
 
 Пример вывода:
 ```bash
-The square of rectangle: 6.280000
+The square of rectangle: 12.560000
 ```
 
 ---
