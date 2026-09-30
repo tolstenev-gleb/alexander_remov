@@ -1,0 +1,14 @@
+Текстовый алгоритм диалоговой программы
+
+
+Создать переменную correct_answer со значением
+Создать переменную user_answer
+
+get_answer:
+  Запросить у пользователя целое число и сохранить его в user_answer
+  Если user_answer равен correct_answer
+    то выход из программы
+  иначе
+    вывести сообщение "Answer is incorrect, please try again"
+    перейти к метке get_answer
+    
