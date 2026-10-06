@@ -5,9 +5,11 @@ C проверкой некорректного ввода
 
 #include <stdio.h>
 
+#define BUS_NUMBER 35
+
 int main() {
   // Создать переменную correct_answer со значением
-  int correct_answer = 35;
+  int correct_answer = BUS_NUMBER;
   // Создать переменную user_answer
   int user_answer;
   
